@@ -1,0 +1,17 @@
+.rechteck {
+  width: 50vw;
+  height: 4vw;
+  background: yellow;
+}
+
+.kreis {
+  width: 10vw;
+  height: 10vw;
+  background: red;  
+  border-radius: 100%;
+}
+
+.border {
+  border: 1vw dotted cyan;
+  box-sizing: border-box;
+}
